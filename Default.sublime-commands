@@ -1,0 +1,5 @@
+[
+    { "caption": "Copy: Python Path", "command": "copy_python_path" },
+    { "caption": "Copy: Import Path", "command": "copy_import_path" },
+    { "caption": "Copy: Django Path", "command": "copy_django_path" },
+]
