@@ -1,4 +1,4 @@
-Python Paths (Fork Of: [CopyPythonPath](https://github.com/pokidovea/copy_python_path))
+Copy Python Paths (Fork Of: [CopyPythonPath](https://github.com/pokidovea/copy_python_path))
 ================
 
 Simple plugin to copy python import path in various formats to clipboard.
